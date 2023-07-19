@@ -5,9 +5,9 @@
 *https://ranchimall.github.io/reale/*  
 
 • reale is a short name for Real Estate  
-• reale is a project under RanchiMall's first initiative at El Salvador  
+• reale is a project under RanchiMall's first collaborative initiative "Project B" at El Salvador  
 • The first project under Project B is Token Room  
-• reale enlists all important information, data, technical products being used, and updated statistics of Token Room  
+• reale enlists all important information, data, technical products being used, and updated statistics of the Token Room  
 • Token Room is a physical room located at El Zonte Beach (Bitcoin Beach) in El Salvador  
 • Guests can book room nights using Bitcoin, Lightning, or USD  
 • It can also be booked through Airbnb  
