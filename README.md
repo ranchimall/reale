@@ -10,7 +10,7 @@
 • reale enlists all important information, data, technical products being used, and updated statistics of Token Room  
 • Token Room is a physical room located at El Zonte Beach (Bitcoin Beach) in El Salvador  
 • Guests can book room nights using Bitcoin, Lightning, or USD  
-• It can also be booked through Airbnb 
+• It can also be booked through Airbnb  
 • The Airbnb link to book Token Room is *https://www.airbnb.com/h/tokenroom-elzonte*  
 • All guests are provided a FLO address which they can use to take part in the tokenization system of the Token Room  
 
